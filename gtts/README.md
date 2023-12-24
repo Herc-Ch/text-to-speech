@@ -32,13 +32,13 @@ This simple Python application converts text from a PDF file to speech using the
 3. Install dependencies:
 
     ```bash
-    python -m pip install -r requirements.txt
+    python -m pip install -r gtts/requirements.txt
     ```
 
 4. Run the application:
 
     ```bash
-    python main.py
+    python gtts/main.py
     ```
 
     The application will open a GUI for PDF to Speech Conversion.

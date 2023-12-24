@@ -28,25 +28,25 @@ This Python script utilizes the Play.ht API to convert text from a PDF file into
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/text-to-speech-playht.git
+    git clone https://github.com/your-username/text-to-speech.git
     ```
 
 2. Navigate to the project folder:
 
     ```bash
-    cd text-to-speech-playht
+    cd text-to-speech
     ```
 
 3. Install dependencies:
 
     ```bash
-    python -m pip install -r requirements.txt
+    python -m pip install -r api_approach/requirements.txt
     ```
 
 4. Run the script:
 
     ```bash
-    python text_to_speech_playht.py
+    python api_approach/main.py
     ```
 
 ## Features
