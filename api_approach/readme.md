@@ -34,19 +34,19 @@ This Python script utilizes the Play.ht API to convert text from a PDF file into
 2. Navigate to the project folder:
 
     ```bash
-    cd text-to-speech
+    cd text-to-speech/api_approach
     ```
 
 3. Install dependencies:
 
     ```bash
-    python -m pip install -r api_approach/requirements.txt
+    python -m pip install -r requirements.txt
     ```
 
 4. Run the script:
 
     ```bash
-    python api_approach/main.py
+    python main.py
     ```
 
 ## Features
